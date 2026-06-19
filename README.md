@@ -61,7 +61,7 @@ Then open **http://127.0.0.1:8000/login**.
 
 | Email            | Password   |
 |------------------|------------|
-| tochi@test.com   | password   |
+| test@test.com   | password   |
 
 ## Routes
 
